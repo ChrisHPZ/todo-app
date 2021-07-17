@@ -5,11 +5,13 @@ import 'react-calendar/dist/Calendar.css';
 function MyApp() {
 	const [value, onChange] = useState(new Date());
 	return (
-		<div>
-			<Calendar
-				onChange={onChange}
-				value={value}
-			/>
+		<div className="flex-calendar-container">
+			<div>
+				<Calendar
+					onChange={onChange}
+					value={value}
+				/>
+			</div>
 		</div>
 	)
 }
