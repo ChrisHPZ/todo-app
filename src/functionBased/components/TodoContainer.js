@@ -7,7 +7,7 @@ import { Route, Switch } from "react-router-dom"
 import About from "../pages/About"
 import NotMatch from "../pages/NotMatch"
 import Navbar from "./Navbar"
-import Calendar from "./Calendar"
+import MyCalendar from "./Calendar"
 
 // Create TodoContainer class
 // It extends the React.Component class
@@ -97,7 +97,7 @@ class TodoContainer extends React.Component {
 					<About />
 				</Route>
 				<Route path="/calendar">
-					<Calendar />
+					<MyCalendar />
 				</Route>
 				<Route path="*">
 					<NotMatch />

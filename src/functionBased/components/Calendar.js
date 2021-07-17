@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import Calendar from 'react-calendar';
 import 'react-calendar/dist/Calendar.css';
 
-function MyApp() {
+function MyCalendar() {
 	const [value, onChange] = useState(new Date());
 	return (
-		<div className="flex-calendar-container">
+		<div className="calendar-flex-container">
 			<div>
 				<Calendar
 					onChange={onChange}
@@ -15,4 +15,4 @@ function MyApp() {
 		</div>
 	)
 }
-export default Calendar
+export default MyCalendar
