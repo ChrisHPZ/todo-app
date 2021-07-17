@@ -17,7 +17,7 @@ const Header = () => {
 				textAlign: "center",
 				}}
 				>
-		todos
+		Nag List
 		</h1>
 		</header>
 	)
