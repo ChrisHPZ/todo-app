@@ -5,10 +5,10 @@ import TodoContainer from "./functionBased/components/TodoContainer"
 // Display the code in TodoContainer inside div id root
 // CSS
 import "./functionBased/App.css"
-import { HashRouter as Router } from "react-router-dom"
+import { BrowserRouter as Router } from "react-router-dom"
 ReactDOM.render(
 	<React.StrictMode>
-		<Router>
+		<Router basename={process.env.PUBLIC_URL}>
 			<TodoContainer />
 		</Router>
 	</React.StrictMode>,
