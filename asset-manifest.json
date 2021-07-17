@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ChrisHPZ/todo-app/static/css/main.8314a5b2.chunk.css",
-    "main.js": "/ChrisHPZ/todo-app/static/js/main.b0edf774.chunk.js",
-    "main.js.map": "/ChrisHPZ/todo-app/static/js/main.b0edf774.chunk.js.map",
+    "main.js": "/ChrisHPZ/todo-app/static/js/main.da76de00.chunk.js",
+    "main.js.map": "/ChrisHPZ/todo-app/static/js/main.da76de00.chunk.js.map",
     "runtime-main.js": "/ChrisHPZ/todo-app/static/js/runtime-main.0e879e0f.js",
     "runtime-main.js.map": "/ChrisHPZ/todo-app/static/js/runtime-main.0e879e0f.js.map",
-    "static/js/2.eedf2b82.chunk.js": "/ChrisHPZ/todo-app/static/js/2.eedf2b82.chunk.js",
-    "static/js/2.eedf2b82.chunk.js.map": "/ChrisHPZ/todo-app/static/js/2.eedf2b82.chunk.js.map",
+    "static/js/2.15987c88.chunk.js": "/ChrisHPZ/todo-app/static/js/2.15987c88.chunk.js",
+    "static/js/2.15987c88.chunk.js.map": "/ChrisHPZ/todo-app/static/js/2.15987c88.chunk.js.map",
     "index.html": "/ChrisHPZ/todo-app/index.html",
     "static/css/main.8314a5b2.chunk.css.map": "/ChrisHPZ/todo-app/static/css/main.8314a5b2.chunk.css.map",
-    "static/js/2.eedf2b82.chunk.js.LICENSE.txt": "/ChrisHPZ/todo-app/static/js/2.eedf2b82.chunk.js.LICENSE.txt"
+    "static/js/2.15987c88.chunk.js.LICENSE.txt": "/ChrisHPZ/todo-app/static/js/2.15987c88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0e879e0f.js",
-    "static/js/2.eedf2b82.chunk.js",
+    "static/js/2.15987c88.chunk.js",
     "static/css/main.8314a5b2.chunk.css",
-    "static/js/main.b0edf774.chunk.js"
+    "static/js/main.da76de00.chunk.js"
   ]
 }
