@@ -30,7 +30,7 @@ const InputTodo = props => {
 			<input
 				type="text"
 				className="input-text"
-				placeholder="Add todo..."
+				placeholder="I have to do..."
 				value={inputText.title}
 				name="title"
 				onChange={onChange}
