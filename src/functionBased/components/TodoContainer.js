@@ -95,6 +95,9 @@ class TodoContainer extends React.Component {
 				<Route path="/about">
 					<About />
 				</Route>
+				<Route path="/calendar">
+					<Calendar />
+				</Route>
 				<Route path="*">
 					<NotMatch />
 				</Route>

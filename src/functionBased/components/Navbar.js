@@ -15,6 +15,11 @@ const Navbar = () => {
 			id: 2,
 			path: "/about",
 			text: "About"
+		},
+		{
+			id: 3,
+			path: "/calendar",
+			text: "Calendar"
 		}
 	]
 	const handleToggle = () => {
